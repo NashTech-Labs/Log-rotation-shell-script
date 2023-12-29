@@ -31,3 +31,12 @@ Make the script executable:
 
 ```bash
 chmod +x log_cleanup_script.sh
+```
+
+### Notification
+
+Upon completion of the log cleanup process, the script provides a notification message:
+
+```bash
+Log files older than $days_to_keep days have been deleted.
+```
