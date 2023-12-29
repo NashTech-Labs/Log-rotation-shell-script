@@ -2,7 +2,7 @@
 
 # Directory where your log files are located
 log_directory="/path/to/log/directory"    #specify your path
-log_directory-2="/path/to/log/directory-2"    #spacify your path
+log_directory-2="/path/to/log/directory-2"    #specify your path
 
 # Number of days for file modification time
 days_to_keep=2   #Mention number of days in NATURAL-NUMBER
